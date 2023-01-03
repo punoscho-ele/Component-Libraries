@@ -1,13 +1,22 @@
-# AMS1117-3.3V Eagle Library
+# AMS1117-3.3V Eagle/Altium/KiCAD Library and 3D Files
 
 LDO|1A|3.3V-FIXED|1V-Drop Out
 
-## Installation
+## AMS1117-3.3V Eagle Library 
+
+Installation
 
 Open Eagle.exe
 Right click on the RAW and click on the save link as. After that, open the eagle design where you want to add this library.  Then go the the Library -> Open library Manager -> In Use -> Browse -> Select the library from the browser Path.
 
-The Library is now Installed. Now, add the library from add option. 
+The Library is now Installed. Now, add the library from add option.
+
+## AMS1117-3.3V KiCAD Library 
+
+## AMS1117-3.3V Altium Library 
+
+## AMS1117-3.3V-Step-File / AMS1117-3.3V 3D Files
+Use the .Step file available in this repository for the components. 
 
 ## Inventory
 
