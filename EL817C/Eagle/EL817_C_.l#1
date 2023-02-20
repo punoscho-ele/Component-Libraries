@@ -107,7 +107,7 @@
 <devicesets>
 <deviceset name="EL817_C_" prefix="IC">
 <description>&lt;b&gt;Transistor Output Optocouplers Optocoupler Transistor DC Input&lt;/b&gt;&lt;p&gt;
-&lt;a href="https://punoscho.in/product/el817-smd-optocoupler/"&gt;Check availability in Punoscho Store&lt;/a&gt;</description>
+&lt;a href=" TO BE ADDED "&gt;Check availability in Punoscho Store&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="EL817_C_" x="0" y="0"/>
 </gates>
