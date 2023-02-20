@@ -133,6 +133,8 @@ Source: &lt;a href="https://rocelec.widen.net/view/pdf/7qfz7dzkx8/ONSM-S-A000358
 <attribute name="MFR" value="onsemi" constant="no"/>
 <attribute name="MFR-PN" value="1N4733A" constant="no"/>
 <attribute name="PACKAGE" value="DO-41-2" constant="no"/>
+<attribute name="SUPPLIER" value="Punoscho.in" constant="no"/>
+<attribute name="SUPPLIER-PN" value="PU-0110" constant="no"/>
 </technology>
 </technologies>
 </device>
