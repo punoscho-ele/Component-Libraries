@@ -133,6 +133,8 @@ Source: &lt;a href="https://www.onsemi.com/pdf/datasheet/1n4736at-d.pdf"&gt; Dat
 <attribute name="MFR" value="onsemi" constant="no"/>
 <attribute name="MFR-PN" value="1N4728A" constant="no"/>
 <attribute name="PACKAGE" value="DO-41" constant="no"/>
+<attribute name="SUPPLIER" value="Punoscho.in" constant="no"/>
+<attribute name="SUPPLIER-PN" value="PU-0111" constant="no"/>
 </technology>
 </technologies>
 </device>
