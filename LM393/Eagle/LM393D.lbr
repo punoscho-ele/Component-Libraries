@@ -110,7 +110,7 @@
 </symbols>
 <devicesets>
 <deviceset name="LM393D" prefix="U">
-<description> &lt;a href="https://pricing.snapeda.com/parts/LM393D/Texas%20Instruments/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
+<description>&lt;a href="https://punoscho.in/product/lm393-dual-comparator-th-8pdip/"&gt;To Check availability click here.!&lt;/a&gt;</description>
 <gates>
 <gate name="A" symbol="LM393D" x="0" y="0"/>
 </gates>
@@ -135,6 +135,8 @@
 <attribute name="MFR" value="Texas Instruments" constant="no"/>
 <attribute name="MFR-PN" value="LM393D" constant="no"/>
 <attribute name="PACKAGE" value="SOIC-8" constant="no"/>
+<attribute name="SUPPLIER" value="Punoscho.in" constant="no"/>
+<attribute name="SUPPLIER-PN" value="PU-0107" constant="no"/>
 </technology>
 </technologies>
 </device>
