@@ -108,7 +108,7 @@
 <devicesets>
 <deviceset name="SSM3K344R,LF" prefix="IC">
 <description>&lt;b&gt;MOSFET LowON Res MOSFET ID=3A VDSS=20V&lt;/b&gt;&lt;p&gt;
-Source: &lt;a href="https://toshiba.semicon-storage.com/info/docget.jsp?did=55839&amp;prodName=SSM3K344R"&gt; Datasheet &lt;/a&gt;</description>
+To check availblity &lt;a href="https://punoscho.in/product/ssm3k333rlf/"&gt; Click Here.! &lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="SSM3K344R,LF" x="0" y="0"/>
 </gates>
@@ -128,6 +128,8 @@ Source: &lt;a href="https://toshiba.semicon-storage.com/info/docget.jsp?did=5583
 <attribute name="MFR" value="Toshiba" constant="no"/>
 <attribute name="MFR-PN" value="SSM3K344R,LF" constant="no"/>
 <attribute name="PACKAGE" value="SOT-23F" constant="no"/>
+<attribute name="SUPPLIER" value="Punoscho.in" constant="no"/>
+<attribute name="SUPPLIER-PN" value="PU-0186" constant="no"/>
 </technology>
 </technologies>
 </device>
