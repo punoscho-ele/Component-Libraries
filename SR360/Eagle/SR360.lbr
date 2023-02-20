@@ -118,7 +118,7 @@
 <devicesets>
 <deviceset name="SR360" prefix="D">
 <description>&lt;b&gt;MULTICOMP - SR360 - SCHOTTKY RECTIFIER, 3A, 60V, DO-201AA&lt;/b&gt;&lt;p&gt;
-Source: &lt;a href="http://www.farnell.com/datasheets/2180965.pdf"&gt; Datasheet &lt;/a&gt;</description>
+To check availblity: &lt;a href="https://punoscho.in/product/3a-60v-schottky-diode-sr360-copy/"&gt; click here.! &lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="SR360" x="0" y="0"/>
 </gates>
@@ -137,6 +137,8 @@ Source: &lt;a href="http://www.farnell.com/datasheets/2180965.pdf"&gt; Datasheet
 <attribute name="MFR" value="MULTICOMP" constant="no"/>
 <attribute name="MFR-PN" value="SR360" constant="no"/>
 <attribute name="PACKAGE" value="DO-201AD" constant="no"/>
+<attribute name="SUPPLIER" value="Punoscho.in" constant="no"/>
+<attribute name="SUPPLIER-PN" value="PU-0103" constant="no"/>
 </technology>
 </technologies>
 </device>
