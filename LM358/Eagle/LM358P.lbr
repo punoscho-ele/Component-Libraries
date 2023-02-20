@@ -130,7 +130,7 @@
 </symbols>
 <devicesets>
 <deviceset name="LM358P" prefix="U">
-<description> &lt;a href="https://pricing.snapeda.com/parts/LM358P/Texas%20Instruments/view-part?ref=eda"&gt;Check prices&lt;/a&gt;  &lt;a href="https://pricing.snapeda.com/parts/LM358P/Texas%20Instruments/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
+<description>To check availblity &lt;a href="https://pricing.snapeda.com/parts/LM358P/Texas%20Instruments/view-part?ref=eda"&gt;click here.!&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="LM358P_SECTION1" x="-12.7" y="0"/>
 <gate name="G$2" symbol="LM358P_SECTION2" x="17.78" y="0" swaplevel="1"/>
@@ -157,6 +157,8 @@
 <attribute name="MFR" value="Texas Instruments" constant="no"/>
 <attribute name="MFR-PN" value="LM358P" constant="no"/>
 <attribute name="PACKAGE" value="PDIP-8 Texas" constant="no"/>
+<attribute name="SUPPLIER" value="Punoscho.in" constant="no"/>
+<attribute name="SUPPLIER-PN" value="PU-0105" constant="no"/>
 </technology>
 </technologies>
 </device>
