@@ -107,7 +107,7 @@
 <devicesets>
 <deviceset name="PC817" prefix="IC">
 <description>&lt;b&gt;4 PIN DIP PHOTOTRANSISTOR PHOTOCOUPLER&lt;/b&gt;&lt;p&gt;
-Source: &lt;a href=""&gt; Datasheet &lt;/a&gt;</description>
+To check availblity &lt;a href="https://punoscho.in/product/pc817-optocoupler/"&gt; Click here.! &lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="PC817" x="0" y="0"/>
 </gates>
