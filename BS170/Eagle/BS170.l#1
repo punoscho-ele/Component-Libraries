@@ -105,9 +105,7 @@
 </symbols>
 <devicesets>
 <deviceset name="BS170" prefix="U">
-<description>Small Signal MOSFET 500 mAmps, 60 Volts &lt;Nv &lt;a href="https://pricing.snapeda.com/parts/TL431ILP/Texas%20Instruments/view-part?ref=eda"&gt;&lt;/a&gt;
-
-&lt;b&gt;Check availability&lt;/b&gt; &lt;a href="https://punoscho.in/product/bs170/"&gt;Click Here.!&lt;/a&gt;</description>
+<description>Small Signal MOSFET 500 mAmps, 60 Volts &lt;Nv &lt;a href="https://pricing.snapeda.com/parts/TL431ILP/Texas%20Instruments/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="BS170" x="0" y="0"/>
 </gates>
