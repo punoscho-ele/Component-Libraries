@@ -156,7 +156,7 @@
 <devicesets>
 <deviceset name="CP2102" prefix="IC">
 <description>&lt;b&gt;USB Interface IC&lt;/b&gt;&lt;p&gt;
-Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/CP2102.pdf"&gt; Datasheet &lt;/a&gt;</description>
+To check availblity &lt;a href="https://punoscho.in/product/cp2102-usb-to-uart-converter/"&gt; Click here.! &lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="CP2102" x="0" y="0"/>
 </gates>
@@ -202,6 +202,8 @@ Source: &lt;a href="https://componentsearchengine.com/Datasheets/1/CP2102.pdf"&g
 <attribute name="MFR" value="Silicon Labs" constant="no"/>
 <attribute name="MFR-PN" value="CP2102" constant="no"/>
 <attribute name="PACKAGE" value="QFN-28" constant="no"/>
+<attribute name="SUPPLIER" value="Punoscho.in" constant="no"/>
+<attribute name="SUPPLIER-PN" value="PU-0177" constant="no"/>
 </technology>
 </technologies>
 </device>
