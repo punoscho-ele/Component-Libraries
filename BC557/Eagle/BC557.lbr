@@ -104,7 +104,7 @@ grid 2.54 mm</description>
 </symbols>
 <devicesets>
 <deviceset name="BC557" prefix="Q">
-<description>&lt;b&gt;PNP TRANSISTOR&lt;/b&gt; &lt;a href="https://pricing.snapeda.com/parts/BC557/ON%20Semiconductor/view-part?ref=eda"&gt;Check availability&lt;/a&gt;</description>
+<description>&lt;b&gt;Check availability&lt;/b&gt; &lt;a href="https://punoscho.in/product/bc557-general-purpose-pnp-transistor-pack-of-5/"&gt;Click Here.!&lt;/a&gt;</description>
 <gates>
 <gate name="1" symbol="PNP" x="0" y="0"/>
 </gates>
@@ -124,6 +124,8 @@ grid 2.54 mm</description>
 <attribute name="MFR" value="ON Semiconductor" constant="no"/>
 <attribute name="MFR-PN" value="BC557" constant="no"/>
 <attribute name="PACKAGE" value="TO-92-3" constant="no"/>
+<attribute name="SUPPLIER" value="Punoscho.in" constant="no"/>
+<attribute name="SUPPLIER-PN" value="PU-0101" constant="no"/>
 </technology>
 </technologies>
 </device>
