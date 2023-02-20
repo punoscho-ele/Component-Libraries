@@ -118,7 +118,7 @@
 <devicesets>
 <deviceset name="NE555D" prefix="IC">
 <description>&lt;b&gt;NE555DG4, Timer, 4.5 to 16V, 8-Pin SOIC-8&lt;/b&gt;&lt;p&gt;
-Source: &lt;a href="http://www.ti.com/lit/ds/symlink/ne555.pdf"&gt; Datasheet &lt;/a&gt;</description>
+To Check Availblity &lt;a href="To be added later"&gt; Click Here.! &lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="NE555D" x="0" y="0"/>
 </gates>
@@ -143,6 +143,8 @@ Source: &lt;a href="http://www.ti.com/lit/ds/symlink/ne555.pdf"&gt; Datasheet &l
 <attribute name="MFR" value="Texas Instruments" constant="no"/>
 <attribute name="MFR-PN" value="NE555D" constant="no"/>
 <attribute name="PACKAGE" value="8-SOIC" constant="no"/>
+<attribute name="SUPPLIER" value="Punoscho.in" constant="no"/>
+<attribute name="SUPPLIER-PN" value="PU-0106" constant="no"/>
 </technology>
 </technologies>
 </device>
