@@ -126,7 +126,7 @@
 <devicesets>
 <deviceset name="BMI270" prefix="IC">
 <description>&lt;b&gt;IMUs - Inertial Measurement Units Smart Ultra-Low Power Inertial Measurement Unit (IMU) for Wearable Applications&lt;/b&gt;&lt;p&gt;
-Source: &lt;a href="https://www.mouser.de/datasheet/2/783/BST-BMI270-FL000-1530947.pdf"&gt; Datasheet &lt;/a&gt;</description>
+To check availblity &lt;a href="https://punoscho.in/product/bmi270-6-axis-16bit-imu-sensor/"&gt; Click Here.! &lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="BMI270" x="0" y="0"/>
 </gates>
@@ -157,6 +157,8 @@ Source: &lt;a href="https://www.mouser.de/datasheet/2/783/BST-BMI270-FL000-15309
 <attribute name="MFR" value="BOSCH" constant="no"/>
 <attribute name="MFR-PN" value="BMI270" constant="no"/>
 <attribute name="PACKAGE" value="14-VFLGA" constant="no"/>
+<attribute name="SUPPLIER" value="Punoscho.in" constant="no"/>
+<attribute name="SUPPLIER-PN" value="PU-0176" constant="no"/>
 </technology>
 </technologies>
 </device>
