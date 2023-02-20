@@ -130,6 +130,8 @@
 <attribute name="MFR" value="ON Semiconductor" constant="no"/>
 <attribute name="MFR-PN" value="1N4742A" constant="no"/>
 <attribute name="PACKAGE" value="DO-41-2" constant="no"/>
+<attribute name="SUPPLIER" value="Punoscho.in" constant="no"/>
+<attribute name="SUPPLIER-PN" value="PU-0109" constant="no"/>
 </technology>
 </technologies>
 </device>
