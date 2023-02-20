@@ -111,7 +111,7 @@
 <devicesets>
 <deviceset name="SC189ZULTRT" prefix="IC">
 <description>&lt;b&gt;Switching Voltage Regulators SYNC STEP DOWN REGULATOR&lt;/b&gt;&lt;p&gt;
-Source: &lt;a href="https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/44000000MDZF/Kz5ycNi9I5Dzzg5AzBOB4W0TtqtKUtMf03CWPRt6CLQ"&gt; Datasheet &lt;/a&gt;</description>
+To check availblity &lt;a href="https://punoscho.in/product/3-3v-1-5a/"&gt; Click Here.! &lt;/a&gt;</description>
 <gates>
 <gate name="G$1" symbol="SC189ZULTRT" x="0" y="0"/>
 </gates>
@@ -134,6 +134,8 @@ Source: &lt;a href="https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/4400
 <attribute name="MFR" value="SEMTECH" constant="no"/>
 <attribute name="MFR-PN" value="SC189ZULTRT" constant="no"/>
 <attribute name="PACKAGE" value="MLPD-UT-16" constant="no"/>
+<attribute name="SUPPLIER" value="Punoscho.in" constant="no"/>
+<attribute name="SUPPLIER-PN" value="PU-0178" constant="no"/>
 </technology>
 </technologies>
 </device>
