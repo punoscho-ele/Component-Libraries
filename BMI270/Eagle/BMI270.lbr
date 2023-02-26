@@ -7,7 +7,7 @@
 <setting keepoldvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="50" unitdist="mil" unit="mil" style="lines" multiple="1" display="no" altdistance="5" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
@@ -60,7 +60,7 @@
 <description>&lt;IMUs - Inertial Measurement Units Smart Ultra-Low Power Inertial Measurement Unit (IMU) for Wearable Applications&lt;/b&gt;&lt;p&gt;
 &lt;author&gt;Created by SamacSys&lt;/author&gt;</description>
 <packages>
-<package name="QFN50P300X250X87-14N" urn="urn:adsk.eagle:footprint:39195469/1">
+<package name="QFN50P300X250X87-14N" urn="urn:adsk.eagle:footprint:39195469/1" locally_modified="yes">
 <description>&lt;b&gt;BMI270&lt;/b&gt;&lt;br&gt;
 </description>
 <smd name="1" x="-1.5" y="0.75" dx="0.55" dy="0.3" layer="1"/>
@@ -77,8 +77,8 @@
 <smd name="12" x="0.5" y="1.15" dx="0.55" dy="0.3" layer="1" rot="R90"/>
 <smd name="13" x="0" y="1.15" dx="0.55" dy="0.3" layer="1" rot="R90"/>
 <smd name="14" x="-0.5" y="1.15" dx="0.55" dy="0.3" layer="1" rot="R90"/>
-<text x="0" y="0" size="1.27" layer="25" align="center">&gt;NAME</text>
-<text x="0" y="0" size="1.27" layer="27" align="center">&gt;VALUE</text>
+<text x="0" y="-3.81" size="1.27" layer="25" align="center">&gt;NAME</text>
+<text x="0" y="-2.54" size="1.27" layer="27" align="center">&gt;VALUE</text>
 <wire x1="-2.1" y1="1.85" x2="2.1" y2="1.85" width="0.05" layer="51"/>
 <wire x1="2.1" y1="1.85" x2="2.1" y2="-1.85" width="0.05" layer="51"/>
 <wire x1="2.1" y1="-1.85" x2="-2.1" y2="-1.85" width="0.05" layer="51"/>
@@ -88,7 +88,7 @@
 <wire x1="1.5" y1="-1.25" x2="-1.5" y2="-1.25" width="0.1" layer="51"/>
 <wire x1="-1.5" y1="-1.25" x2="-1.5" y2="1.25" width="0.1" layer="51"/>
 <wire x1="-1.5" y1="0.75" x2="-1" y2="1.25" width="0.1" layer="51"/>
-<circle x="-1.775" y="1.5" radius="0.125" width="0.25" layer="25"/>
+<circle x="-2.156" y="0.738" radius="0.125" width="0.25" layer="25"/>
 </package>
 </packages>
 <packages3d>
@@ -154,7 +154,7 @@ To check availblity &lt;a href="https://punoscho.in/product/bmi270-6-axis-16bit-
 <technologies>
 <technology name="">
 <attribute name="DESCRIPTION" value="IMUs - Inertial Measurement Units Smart Ultra-Low Power Inertial Measurement Unit (IMU) for Wearable Applications" constant="no"/>
-<attribute name="MFR" value="BOSCH" constant="no"/>
+<attribute name="MFR" value="BOSCH Sensortec" constant="no"/>
 <attribute name="MFR-PN" value="BMI270" constant="no"/>
 <attribute name="PACKAGE" value="14-VFLGA" constant="no"/>
 <attribute name="SUPPLIER" value="Punoscho.in" constant="no"/>
